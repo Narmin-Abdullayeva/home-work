@@ -1,0 +1,29 @@
+body{
+
+
+}
+
+
+a{
+    color: yellow;
+   font-size: 4rem;
+   text-decoration: none;
+   background-color: black;
+}
+a:hover{background-color: aqua; color: brown;}
+div{
+width: 800px; 
+height: 400px;
+background-image: url(https://media.istockphoto.com/id/590047232/photo/amsterdam.jpg?b=1&s=170667a&w=0&k=20&c=8EQC_gRELe-gvn2NfLkshoRyi1_56sC70wK7xFnh2y8=);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+h5{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-style: solid;
+    border-width: 10px;
+    border-color:royalblue;
+}
+img{width: 150px ; height: 150px;}
+img:hover{width: 200px ;}
